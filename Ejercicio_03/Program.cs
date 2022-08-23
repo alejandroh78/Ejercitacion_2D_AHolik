@@ -72,7 +72,7 @@ namespace Ejercicio_03
 
                 if (controlPrimos == false) 
                 {
-                    Console.Write($"No se encontraron numeros primos {Environment.NewLine}");
+                    Console.Write($"No se encontraron numeros primos {Environment.NewLine} ");
                 }
 
                 Console.Write($"{Environment.NewLine}");
