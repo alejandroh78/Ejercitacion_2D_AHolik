@@ -1,0 +1,16 @@
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_08_DibujoTrianguloRectangulo\bin\Debug\net5.0\Ejercicio_08_DibujoTrianguloRectangulo.exe
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_08_DibujoTrianguloRectangulo\bin\Debug\net5.0\Ejercicio_08_DibujoTrianguloRectangulo.deps.json
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_08_DibujoTrianguloRectangulo\bin\Debug\net5.0\Ejercicio_08_DibujoTrianguloRectangulo.runtimeconfig.json
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_08_DibujoTrianguloRectangulo\bin\Debug\net5.0\Ejercicio_08_DibujoTrianguloRectangulo.runtimeconfig.dev.json
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_08_DibujoTrianguloRectangulo\bin\Debug\net5.0\Ejercicio_08_DibujoTrianguloRectangulo.dll
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_08_DibujoTrianguloRectangulo\bin\Debug\net5.0\Ejercicio_08_DibujoTrianguloRectangulo.pdb
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_08_DibujoTrianguloRectangulo\obj\Debug\net5.0\Ejercicio_08_DibujoTrianguloRectangulo.csproj.AssemblyReference.cache
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_08_DibujoTrianguloRectangulo\obj\Debug\net5.0\Ejercicio_08_DibujoTrianguloRectangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_08_DibujoTrianguloRectangulo\obj\Debug\net5.0\Ejercicio_08_DibujoTrianguloRectangulo.AssemblyInfoInputs.cache
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_08_DibujoTrianguloRectangulo\obj\Debug\net5.0\Ejercicio_08_DibujoTrianguloRectangulo.AssemblyInfo.cs
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_08_DibujoTrianguloRectangulo\obj\Debug\net5.0\Ejercicio_08_DibujoTrianguloRectangulo.csproj.CoreCompileInputs.cache
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_08_DibujoTrianguloRectangulo\obj\Debug\net5.0\Ejercicio_08_DibujoTrianguloRectangulo.dll
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_08_DibujoTrianguloRectangulo\obj\Debug\net5.0\refint\Ejercicio_08_DibujoTrianguloRectangulo.dll
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_08_DibujoTrianguloRectangulo\obj\Debug\net5.0\Ejercicio_08_DibujoTrianguloRectangulo.pdb
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_08_DibujoTrianguloRectangulo\obj\Debug\net5.0\Ejercicio_08_DibujoTrianguloRectangulo.genruntimeconfig.cache
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_08_DibujoTrianguloRectangulo\obj\Debug\net5.0\ref\Ejercicio_08_DibujoTrianguloRectangulo.dll
