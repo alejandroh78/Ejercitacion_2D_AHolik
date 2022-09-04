@@ -1,0 +1,16 @@
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_02_DeseaContinuar\bin\Debug\net5.0\Ejercicio_02_DeseaContinuar.exe
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_02_DeseaContinuar\bin\Debug\net5.0\Ejercicio_02_DeseaContinuar.deps.json
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_02_DeseaContinuar\bin\Debug\net5.0\Ejercicio_02_DeseaContinuar.runtimeconfig.json
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_02_DeseaContinuar\bin\Debug\net5.0\Ejercicio_02_DeseaContinuar.runtimeconfig.dev.json
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_02_DeseaContinuar\bin\Debug\net5.0\Ejercicio_02_DeseaContinuar.dll
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_02_DeseaContinuar\bin\Debug\net5.0\Ejercicio_02_DeseaContinuar.pdb
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_02_DeseaContinuar\obj\Debug\net5.0\Ejercicio_02_DeseaContinuar.csproj.AssemblyReference.cache
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_02_DeseaContinuar\obj\Debug\net5.0\Ejercicio_02_DeseaContinuar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_02_DeseaContinuar\obj\Debug\net5.0\Ejercicio_02_DeseaContinuar.AssemblyInfoInputs.cache
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_02_DeseaContinuar\obj\Debug\net5.0\Ejercicio_02_DeseaContinuar.AssemblyInfo.cs
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_02_DeseaContinuar\obj\Debug\net5.0\Ejercicio_02_DeseaContinuar.csproj.CoreCompileInputs.cache
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_02_DeseaContinuar\obj\Debug\net5.0\Ejercicio_02_DeseaContinuar.dll
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_02_DeseaContinuar\obj\Debug\net5.0\refint\Ejercicio_02_DeseaContinuar.dll
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_02_DeseaContinuar\obj\Debug\net5.0\Ejercicio_02_DeseaContinuar.pdb
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_02_DeseaContinuar\obj\Debug\net5.0\Ejercicio_02_DeseaContinuar.genruntimeconfig.cache
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_02_DeseaContinuar\obj\Debug\net5.0\ref\Ejercicio_02_DeseaContinuar.dll

@@ -1,0 +1,16 @@
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_04_Calculadora\bin\Debug\net5.0\Ejercicio_04_Calculadora.exe
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_04_Calculadora\bin\Debug\net5.0\Ejercicio_04_Calculadora.deps.json
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_04_Calculadora\bin\Debug\net5.0\Ejercicio_04_Calculadora.runtimeconfig.json
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_04_Calculadora\bin\Debug\net5.0\Ejercicio_04_Calculadora.runtimeconfig.dev.json
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_04_Calculadora\bin\Debug\net5.0\Ejercicio_04_Calculadora.dll
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_04_Calculadora\bin\Debug\net5.0\Ejercicio_04_Calculadora.pdb
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_04_Calculadora\obj\Debug\net5.0\Ejercicio_04_Calculadora.csproj.AssemblyReference.cache
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_04_Calculadora\obj\Debug\net5.0\Ejercicio_04_Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_04_Calculadora\obj\Debug\net5.0\Ejercicio_04_Calculadora.AssemblyInfoInputs.cache
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_04_Calculadora\obj\Debug\net5.0\Ejercicio_04_Calculadora.AssemblyInfo.cs
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_04_Calculadora\obj\Debug\net5.0\Ejercicio_04_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_04_Calculadora\obj\Debug\net5.0\Ejercicio_04_Calculadora.dll
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_04_Calculadora\obj\Debug\net5.0\refint\Ejercicio_04_Calculadora.dll
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_04_Calculadora\obj\Debug\net5.0\Ejercicio_04_Calculadora.pdb
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_04_Calculadora\obj\Debug\net5.0\Ejercicio_04_Calculadora.genruntimeconfig.cache
+C:\Users\aholi\source\repos\UTN\Ejercitacion\Ejercicio_04_Calculadora\obj\Debug\net5.0\ref\Ejercicio_04_Calculadora.dll
